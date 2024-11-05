@@ -2358,7 +2358,7 @@ Now, navigate to your Jenkins job and confirm that the pipeline has been trigger
 
 ![building-modified-services](./assets/2-trigger-by-ghooks.png)
 
-Once the job starts running, examine its build [logs]() to verify that the pipeline is building only the modified services.
+Once the job starts, review the build [logs](./build-logs/second-build.md) to confirm that the pipeline is exclusively building the modified services.
 
 ![services-being-build](./assets/3-services-build.png)
 
