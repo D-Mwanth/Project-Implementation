@@ -1,4 +1,4 @@
-## Automated Deployment of Microservices on Scalable Kubernetes Kubernetes with Jenkins, ArgoCD, Terraform, Prometheus, and Grafana
+## Automated Microservices Deployment on Scalable Kubernetes with Jenkins, ArgoCD, Terraform, Prometheus, and Grafana
 
 This project presents a complete process of automating the build and deployment of a monorepo-based microservices architecture. Using **Jenkins** and **ArgoCD**, we will develop an efficient **CI/CD** workflows to automate the building process of various services of a sample **[ecommerce microservices architecutre](https://github.com/GoogleCloudPlatform/microservices-demo)** consisting of 12 services, and deploying them to a resilient, scalable Kubernetes cluster, that we will provision using Terraform.
 
